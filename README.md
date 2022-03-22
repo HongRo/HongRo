@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HongRo
-- 👀 I’m currently working on (and learning) UI/UX frontend development
+- 👀 I’m currently working on AWS and cloud engineering
 - 🌱 Thanks for checking out my profile!
 
 <!---
