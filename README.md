@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HongRo
-- 👀 I’m currently working on AWS and cloud engineering
+- 👀 I’m currently working on cloud application development on AWS
 - 🌱 Thanks for checking out my profile!
 
 <!---
